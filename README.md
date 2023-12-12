@@ -1,4 +1,4 @@
-<p align="center"><img src="images/logotype-horizontal.png"></p>
+<p align="center"><img src="C:\Users\acer\OneDrive\Desktop\pasmac.png"></p>
 
 # Browserpass - browser extension
 
